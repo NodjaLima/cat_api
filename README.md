@@ -7,10 +7,15 @@ O arquivo .HTML e .CSS desse projeto foi oferecido por @stebsnusch.
 # Tecnologias Utilizadas
 
 Javascript
+
   Assincronicidade
+  
   Manipulação de DOM
+  
   Fetch()
+  
   Promisses()
+  
 Consumo de API
 
   
